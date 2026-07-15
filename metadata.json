@@ -1,0 +1,6 @@
+{
+  "name": "Point of Sale (POS) System",
+  "description": "A fully featured, high-performance offline-first POS system with product management, custom discounts, customer loyalty, draft carts, transaction search, and beautiful analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
